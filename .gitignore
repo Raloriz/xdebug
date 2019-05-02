@@ -1,0 +1,19 @@
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+###> docker ###
+.docker/data/
+###< docker ###
+
+###> phpstorm ###
+.idea/workspace.xml 
+.idea/tasks.xml
+###> phpstorm ###
+
